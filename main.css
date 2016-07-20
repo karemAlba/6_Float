@@ -1,0 +1,20 @@
+.papa{
+	border: 2px black solid;
+	padding: 20px;
+	background-color: green;
+}
+
+.hijo{
+	background-color: white;
+	padding: 20px;
+	border:1px black solid;
+}
+
+.clearfix{
+	overflow: auto;
+}
+
+.flota{
+	float: left;
+	
+}
